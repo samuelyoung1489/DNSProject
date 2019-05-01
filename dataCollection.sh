@@ -2,16 +2,16 @@
 
 for i in {1..10}
 do
-  dig +nocmd +noall +answer www.google.com >> googleDNS;
-  dig +nocmd +noall +answer www.wikipedia.com >> wikiDNS;
-  dig +nocmd +noall +answer www.facebook.com >> facebookDNS;
-  dig +nocmd +noall +answer www.amazon.com >> amazonDNS;
-  dig +nocmd +noall +answer www.stevens.edu >> stevensDNS;
-  dig +nocmd +noall +answer www.bankofamerica.com >> boaDNS;
-  dig +nocmd +noall +answer www.slack.com >> slackDNS;
-  dig +nocmd +noall +answer www.groupme.com >> GroupMeDNS;
-  dig +nocmd +noall +answer www.ateamsystems.com >> aTeamDNS;
-  dig +nocmd +noall +answer www.theuselessweb.com.com >> uselessDNS;
+  dig +norecurse www.google.com >> googleDNS;
+  dig +norecurse www.wikipedia.com >> wikiDNS;
+  dig +norecurse www.facebook.com >> facebookDNS;
+  dig +norecurse www.amazon.com >> amazonDNS;
+  dig +norecurse www.stevens.edu >> stevensDNS;
+  dig +norecurse www.bankofamerica.com >> boaDNS;
+  dig +norecurse www.slack.com >> slackDNS;
+  dig +norecurse www.groupme.com >> GroupMeDNS;
+  dig +norecurse www.ateamsystems.com >> aTeamDNS;
+  dig +norecurse www.theuselessweb.com.com >> uselessDNS;
   sleep 1;
 done
 
