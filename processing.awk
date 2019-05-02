@@ -13,4 +13,5 @@ BEGIN {
 
 END {
 	print count
+	count = 0
 }
