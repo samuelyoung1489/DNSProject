@@ -1,0 +1,340 @@
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 22787
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:54 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 26481
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:56 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 5739
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:57 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 36281
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:59 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 23758
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:01 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 19137
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:02 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 21459
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:04 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29057
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:05 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 27102
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:07 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 12356
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:08 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 18395
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:54 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 39945
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:56 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 32677
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:57 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 26449
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:59 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 40232
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:00 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 30649
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:02 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 55108
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:04 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25330
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:05 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6922
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:07 EDT 2019
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.slack.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 15856
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.slack.com.			IN	A
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:08 EDT 2019
+;; MSG SIZE  rcvd: 42
+

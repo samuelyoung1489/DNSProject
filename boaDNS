@@ -1,0 +1,392 @@
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48466
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	442	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	4	IN	A	171.161.203.100
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:54 EDT 2019
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63108
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	440	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	2	IN	A	171.161.203.100
+
+;; Query time: 4 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:56 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37042
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	439	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	1	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:57 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 62800
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:59 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51647
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:00 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 3062
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:02 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 15800
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:04 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 28883
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:05 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50792
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	260	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	20	IN	A	171.161.203.100
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:07 EDT 2019
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49255
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	259	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	19	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:08 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10713
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:54 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10172
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	515	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	5	IN	A	171.161.203.100
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:56 EDT 2019
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58531
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	513	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	3	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:57 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64494
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	511	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	1	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:59 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45479
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	154	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	1	IN	A	171.161.203.100
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:00 EDT 2019
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 52129
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:02 EDT 2019
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47492
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	541	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	14	IN	A	171.161.203.100
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:03 EDT 2019
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24317
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	539	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	12	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:05 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44908
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	537	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	10	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:07 EDT 2019
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38244
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; ANSWER SECTION:
+www.bankofamerica.com.	536	IN	CNAME	wwwui.ecglb.bac.com.
+wwwui.ecglb.bac.com.	9	IN	A	171.161.203.100
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:08 EDT 2019
+;; MSG SIZE  rcvd: 99
+

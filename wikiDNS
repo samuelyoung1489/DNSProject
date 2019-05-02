@@ -1,0 +1,340 @@
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 28909
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:54 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 50316
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:56 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 59564
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:57 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9512
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:59 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 55717
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 30 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:00 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46186
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 20 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:02 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 30934
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:03 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 57711
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:05 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10869
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:07 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 47417
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:08 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 18183
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:54 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51212
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:55 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 37412
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:57 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 65243
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:59 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46875
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:00 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 5140
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:02 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 58139
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:03 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 37161
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 22 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:05 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1845
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:06 EDT 2019
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.wikipedia.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 3021
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.wikipedia.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:08 EDT 2019
+;; MSG SIZE  rcvd: 46
+

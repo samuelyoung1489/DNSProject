@@ -1,0 +1,340 @@
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 8318
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:54 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 5206
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:56 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 45431
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:57 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 5992
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:56:59 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6513
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:01 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25351
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:02 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 43169
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:04 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 43809
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:05 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 32824
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:07 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 43053
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 14:57:09 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25209
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:54 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10144
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:56 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 9923
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:57 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 47730
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:00:59 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 14810
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:00 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 7478
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:02 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6045
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:04 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 53562
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:05 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 47457
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:07 EDT 2019
+;; MSG SIZE  rcvd: 49
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.ateamsystems.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29289
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.ateamsystems.com.		IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 15:01:08 EDT 2019
+;; MSG SIZE  rcvd: 49
+
