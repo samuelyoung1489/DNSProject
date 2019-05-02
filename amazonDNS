@@ -207,7 +207,7 @@
 ;; global options: +cmd
 ;; Got answer:
 ;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10237
-;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; flags: qr ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
 
 ;; OPT PSEUDOSECTION:
 ; EDNS: version: 0, flags:; udp: 512
@@ -327,7 +327,7 @@ e15316.e22.akamaiedge.net. 11	IN	A	184.27.65.27
 ;; global options: +cmd
 ;; Got answer:
 ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35145
-;; flags: qr ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
 
 ;; OPT PSEUDOSECTION:
 ; EDNS: version: 0, flags:; udp: 4096
@@ -350,7 +350,7 @@ e15316.e22.akamaiedge.net. 10	IN	A	184.27.65.27
 ;; global options: +cmd
 ;; Got answer:
 ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32449
-;; flags: qr ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+;; flags: qr ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
 
 ;; OPT PSEUDOSECTION:
 ; EDNS: version: 0, flags:; udp: 4096
@@ -367,4 +367,3 @@ e15316.e22.akamaiedge.net. 8	IN	A	184.27.65.27
 ;; SERVER: 192.168.1.1#53(192.168.1.1)
 ;; WHEN: Thu May 02 15:01:08 EDT 2019
 ;; MSG SIZE  rcvd: 170
-
