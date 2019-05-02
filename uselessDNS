@@ -1,0 +1,1190 @@
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 57347
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:09 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 62223
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:11 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 36128
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:12 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 55403
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:14 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 54895
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:16 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11301
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 23 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:17 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1721
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 23 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:19 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 7706
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:21 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 41013
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:22 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 41184
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:09:24 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 27767
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 20 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:02 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 58557
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:04 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 61100
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:06 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 57534
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:07 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25811
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:09 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 20607
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:11 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 19568
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:12 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 42927
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 24 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:14 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 12496
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 23 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:16 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 254
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:17 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 15134
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:19 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 14130
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:21 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11961
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:22 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 43564
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 26 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:24 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 47270
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 21 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:25 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 491
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:27 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46221
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:29 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 39578
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:30 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11675
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:32 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 16389
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:34 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1809
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:35 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 22248
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 20 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:37 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 59610
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:39 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 38341
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:40 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 18118
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:42 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6605
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 28 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:44 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 61743
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 46 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:46 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 15997
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 126 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:48 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46243
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:50 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 56341
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:52 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 4212
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 12 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:53 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 58530
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:55 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 41730
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:57 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51809
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:10:58 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46402
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 13 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:00 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 42360
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:02 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 8220
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:03 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10996
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:05 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 52366
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:06 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11691
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:08 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 17172
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:10 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 23232
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:11 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 48217
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:13 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 40261
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:15 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 55342
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 28 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:16 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 12918
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:18 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 58456
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 22 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:20 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25736
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 26 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:22 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 31883
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:23 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 23624
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 22 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:25 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51334
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:27 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 42318
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:28 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 8213
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 20 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:30 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 49874
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 22 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:32 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 41102
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:34 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29858
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 21 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:36 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 39590
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 20 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:37 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 42266
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 55 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:39 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 41850
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:41 EDT 2019
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.theuselessweb.com.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 19974
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.theuselessweb.com.com.	IN	A
+
+;; Query time: 19 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 16:11:43 EDT 2019
+;; MSG SIZE  rcvd: 54
+
