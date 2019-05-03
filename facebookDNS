@@ -1464,3 +1464,45 @@ star-mini.c10r.facebook.com. 1	IN	A	31.13.71.36
 ;; WHEN: Thu May 02 16:11:42 EDT 2019
 ;; MSG SIZE  rcvd: 90
 
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.facebook.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28320
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.facebook.com.		IN	A
+
+;; ANSWER SECTION:
+www.facebook.com.	3587	IN	CNAME	star-mini.c10r.facebook.com.
+star-mini.c10r.facebook.com. 48	IN	A	31.13.71.36
+
+;; Query time: 18 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:36 EDT 2019
+;; MSG SIZE  rcvd: 90
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.facebook.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61356
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.facebook.com.		IN	A
+
+;; ANSWER SECTION:
+www.facebook.com.	3585	IN	CNAME	star-mini.c10r.facebook.com.
+star-mini.c10r.facebook.com. 46	IN	A	31.13.71.36
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:38 EDT 2019
+;; MSG SIZE  rcvd: 102
+

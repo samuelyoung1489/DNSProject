@@ -1388,3 +1388,20 @@ wwwui.ecglb.bac.com.	25	IN	A	171.161.203.100
 ;; WHEN: Thu May 02 16:11:42 EDT 2019
 ;; MSG SIZE  rcvd: 96
 
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.bankofamerica.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 53172
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.bankofamerica.com.		IN	A
+
+;; Query time: 17 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:37 EDT 2019
+;; MSG SIZE  rcvd: 50
+

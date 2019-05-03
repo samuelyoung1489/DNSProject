@@ -1398,3 +1398,43 @@ www.google.com.		18	IN	A	172.217.12.132
 ;; WHEN: Thu May 02 16:11:42 EDT 2019
 ;; MSG SIZE  rcvd: 59
 
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.google.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21004
+;; flags: qr ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.google.com.			IN	A
+
+;; ANSWER SECTION:
+www.google.com.		137	IN	A	172.217.10.132
+
+;; Query time: 1 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:36 EDT 2019
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.google.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14815
+;; flags: qr ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.google.com.			IN	A
+
+;; ANSWER SECTION:
+www.google.com.		135	IN	A	172.217.10.132
+
+;; Query time: 2 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:38 EDT 2019
+;; MSG SIZE  rcvd: 59
+

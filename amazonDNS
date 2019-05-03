@@ -1217,3 +1217,42 @@ d3ag4hukkh62yn.cloudfront.net. 1 IN	A	143.204.102.67
 ;; WHEN: Thu May 02 16:11:42 EDT 2019
 ;; MSG SIZE  rcvd: 43
 
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.amazon.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 64132
+;; flags: qr ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.amazon.com.			IN	A
+
+;; Query time: 15 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:37 EDT 2019
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.amazon.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44044
+;; flags: qr ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.amazon.com.			IN	A
+
+;; ANSWER SECTION:
+www.amazon.com.		13	IN	CNAME	www.cdn.amazon.com.
+www.cdn.amazon.com.	47	IN	CNAME	d3ag4hukkh62yn.cloudfront.net.
+d3ag4hukkh62yn.cloudfront.net. 47 IN	A	99.84.176.5
+
+;; Query time: 16 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:38 EDT 2019
+;; MSG SIZE  rcvd: 124
+

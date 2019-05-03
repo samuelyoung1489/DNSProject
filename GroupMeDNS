@@ -1468,3 +1468,24 @@ groupme.com.		133	IN	A	40.84.59.174
 ;; WHEN: Thu May 02 16:11:43 EDT 2019
 ;; MSG SIZE  rcvd: 85
 
+
+; <<>> DiG 9.10.3-P4-Raspbian <<>> +norecurse www.groupme.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38886
+;; flags: qr ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;www.groupme.com.		IN	A
+
+;; ANSWER SECTION:
+www.groupme.com.	138	IN	CNAME	groupme.com.
+groupme.com.		155	IN	A	40.84.59.174
+
+;; Query time: 14 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Thu May 02 20:05:37 EDT 2019
+;; MSG SIZE  rcvd: 74
+
