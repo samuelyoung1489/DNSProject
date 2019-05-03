@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..60}
+for i in {1..600}
 do
   dig +norecurse www.google.com >> googleDNS;
   dig +norecurse www.wikipedia.com >> wikiDNS;
