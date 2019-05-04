@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..10}
+for i in {1..100}
 do
   dig +norecurse www.google.com >> googleDNS;
   dig +norecurse www.wikipedia.com >> wikiDNS;
@@ -25,5 +25,3 @@ awk -f processing.awk slackDNS >> slackOutput.txt
 awk -f processing.awk GroupMeDNS >> groupMeOutput.txt
 awk -f processing.awk aTeamDNS >> aTeamOutput.txt
 awk -f processing.awk uselessDNS >> uselessOutput.txt
-
-python /CPE490/DNSProject/plot.py
