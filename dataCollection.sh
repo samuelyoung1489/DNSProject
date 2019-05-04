@@ -24,4 +24,4 @@ awk -f processing.awk boaDNS >> boaOutput.txt
 awk -f processing.awk slackDNS >> slackOutput.txt
 awk -f processing.awk GroupMeDNS >> groupMeOutput.txt
 awk -f processing.awk aTeamDNS >> aTeamOutput.txt
-awk -f processing.awk uselessDNS >> uselessOutput.txt
+awk -f processing.awk uselessDNS >> uselessOutput.tx
