@@ -1,12 +1,12 @@
 #!/bin/bash
 
-dig www.google.com >> googleDNS;
-dig www.wikipedia.com >> wikiDNS;
-dig www.facebook.com >> facebookDNS;
-dig www.amazon.com >> amazonDNS;
-dig www.stevens.edu >> stevensDNS;
-dig www.bankofamerica.com >> boaDNS;
-dig www.slack.com >> slackDNS;
-dig www.groupme.com >> GroupMeDNS;
-dig www.ateamsystems.com >> aTeamDNS;
-dig www.theuselessweb.com.com >> uselessDNS;
+dig @1.1.1.1 www.google.com >> googleDNS;
+dig @1.1.1.1 www.wikipedia.com >> wikiDNS;
+dig @1.1.1.1 www.facebook.com >> facebookDNS;
+dig @1.1.1.1 www.amazon.com >> amazonDNS;
+dig @1.1.1.1 www.stevens.edu >> stevensDNS;
+dig @1.1.1.1 www.bankofamerica.com >> boaDNS;
+dig @1.1.1.1 www.slack.com >> slackDNS;
+dig @1.1.1.1 www.groupme.com >> GroupMeDNS;
+dig @1.1.1.1 www.ateamsystems.com >> aTeamDNS;
+dig @1.1.1.1 www.theuselessweb.com.com >> uselessDNS;

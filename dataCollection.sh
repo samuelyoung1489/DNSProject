@@ -1,17 +1,17 @@
 #!/bin/bash
 
-for i in {1..100}
+for i in {1..9000}
 do
-  dig +norecurse www.google.com >> googleDNS;
-  dig +norecurse www.wikipedia.com >> wikiDNS;
-  dig +norecurse www.facebook.com >> facebookDNS;
-  dig +norecurse www.amazon.com >> amazonDNS;
-  dig +norecurse www.stevens.edu >> stevensDNS;
-  dig +norecurse www.bankofamerica.com >> boaDNS;
-  dig +norecurse www.slack.com >> slackDNS;
-  dig +norecurse www.groupme.com >> GroupMeDNS;
-  dig +norecurse www.ateamsystems.com >> aTeamDNS;
-  dig +norecurse www.theuselessweb.com.com >> uselessDNS;
+  dig @1.1.1.1 +norecurse www.google.com >> googleDNS;
+  dig @1.1.1.1 +norecurse www.wikipedia.com >> wikiDNS;
+  dig @1.1.1.1 +norecurse www.facebook.com >> facebookDNS;
+  dig @1.1.1.1 +norecurse www.amazon.com >> amazonDNS;
+  dig @1.1.1.1 +norecurse www.stevens.edu >> stevensDNS;
+  dig @1.1.1.1 +norecurse www.bankofamerica.com >> boaDNS;
+  dig @1.1.1.1 +norecurse www.slack.com >> slackDNS;
+  dig @1.1.1.1 +norecurse www.groupme.com >> GroupMeDNS;
+  dig @1.1.1.1 +norecurse www.ateamsystems.com >> aTeamDNS;
+  dig @1.1.1.1 +norecurse www.theuselessweb.com.com >> uselessDNS;
   sleep 1;
 done
 
