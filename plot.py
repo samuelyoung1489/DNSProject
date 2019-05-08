@@ -28,5 +28,7 @@ plt.legend(fontsize = 20, loc = 'lower right')
 plt.title('Relative Popularity of Websites',fontsize=25)
 plt.xlabel('Time Between Query', fontsize=25)
 plt.ylabel('CDF',fontsize=25)
+plt.xticks(fontsize = 20)
+plt.yticks(fontsize = 20)
 
 show()
